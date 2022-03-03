@@ -12,10 +12,6 @@ Users should be able to:
 - Hours, minutes and seconds are optional. If omitted, they're given default
 
 
-### Screenshot
-
-![./screenshot.png](./img/screenshot.png)
-
 ### Links
 
 - Live Site URL:(https://elifulug.github.io/Exact_Age_Calculator/)
